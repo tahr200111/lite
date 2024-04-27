@@ -75,7 +75,8 @@ wget
 youtube-search-python==1.4.9
 youtube-search
 youtube_dl
-
+StreamType 
+pytgcalls
 git+https://github.com/yt-dlp/yt-dlp@master
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/sandy1709/py-googletrans
